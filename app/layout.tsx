@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Rachit Dwivedi | Game Developer',
     description: 'Crafting immersive games, animations, and UI experiences.',
-    url: 'https://your-deployed-site-url.vercel.app', // Replace with your actual deployed URL
+    url: 'https://portfolio-site-azure-zeta.vercel.app/', // Replace with your actual deployed URL
     siteName: 'Rachit Dwivedi Portfolio',
     images: [
       {
