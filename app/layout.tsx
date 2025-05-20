@@ -12,17 +12,17 @@ const geistMono = Geist_Mono({
   subsets: ['latin'],
 });
 
-export const metadata: Metadata = {
+export const metadata = {
   title: 'Rachit Dwivedi | Game Developer',
   description: 'Portfolio of Rachit Dwivedi — Game Developer, Designer & Animator',
   openGraph: {
     title: 'Rachit Dwivedi | Game Developer',
     description: 'Crafting immersive games, animations, and UI experiences.',
-    url: 'https://portfolio-site-azure-zeta.vercel.app/', // Replace with your actual deployed URL
+    url: 'https://portfolio-site-azure-zeta.vercel.app/',
     siteName: 'Rachit Dwivedi Portfolio',
     images: [
       {
-        url: '/Portfolio.png', // Add this image in your public folder
+        url: '/preview-image.png',
         width: 1200,
         height: 630,
         alt: 'Rachit Dwivedi Portfolio Preview',
@@ -34,9 +34,10 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Rachit Dwivedi | Game Developer',
     description: 'Explore my portfolio: games, designs, animations and more.',
-    images: ['/Portfolio.png'],
+    images: ['/preview-image.png'],
   },
 };
+
 
 export default function RootLayout({
   children,
