@@ -54,7 +54,7 @@ export const ProjectsSection = () => {
       description:
         'A comprehensive food delivery app design in Figma featuring splash screen, homepage, wishlist, address management, payments, customer support, and customizable order pages for a smooth user experience.',
       techDetails: ['Figma Prototyping', 'Adobe Illustrator for Logo', 'Adobe After Effects for Logo animation', 'Vector Graphics'],
-      image: '/food.png',
+      image: '/Food.png',
       prototypeUrl:
         'https://www.figma.com/proto/CYuv2GpdS587tmCldTavPV/Food-app-design?page-id=0%3A1&node-id=462-1139&node-type=canvas&viewport=989%2C561%2C0.4&t=44jf7RmzC2DRc8zA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A667',
     },
