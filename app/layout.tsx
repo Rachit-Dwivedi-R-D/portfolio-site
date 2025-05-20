@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     siteName: 'Rachit Dwivedi Portfolio',
     images: [
       {
-        url: '/preview-image.png', // Add this image in your public folder
+        url: '/Portfolio.png', // Add this image in your public folder
         width: 1200,
         height: 630,
         alt: 'Rachit Dwivedi Portfolio Preview',
