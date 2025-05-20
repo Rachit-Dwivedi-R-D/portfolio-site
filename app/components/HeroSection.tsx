@@ -6,7 +6,7 @@ export const HeroSection = () => {
       {/* Resume Button */}
       <div className="absolute top-4 right-4 sm:top-10 sm:right-10 z-50">
         <a
-          href="/RD_Resume.pdf"
+          href="/Rachit_Dwivedi_CV_.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="px-5 py-2 rounded-md font-semibold text-white 
