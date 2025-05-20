@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Web Developer',
+	title: 'Rachit Dwivedi Portfolio',
 	description:
-		'Welcome to my portfolio! I am a passionate web developer creating modern, responsive, and user-friendly websites. Specializing in frontend technologies and interactive user interfaces, I build engaging web experiences that make an impact.',
+		'Welcome to my portfolio! I am a passionate game developer, designer and animator.',
 	keywords: [
 		'Web Developer',
 		'Frontend Developer',
